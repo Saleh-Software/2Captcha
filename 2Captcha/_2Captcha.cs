@@ -17,7 +17,7 @@ namespace _2CaptchaAPI
 {
 	public partial class _2Captcha
 	{
-		private string _apiUrl = "https://2captcha.com/";
+		private string _apiUrl = "http://rucaptcha.com/";
 
 		private readonly HttpClient _httpClient;
 		private readonly string _apiKey;
